@@ -1,6 +1,6 @@
 # Mohamed 穆罕默德
 
-🌐 **Website:** [doukkani.dev](https://doukkani.dev)  
+🌗 **Website:** [doukkani.dev](https://doukkani.dev)  
 ✉️ **Email:** To avoid spam bots, please reverse the characters in the string **ih** and append **@doukkani.dev** to it.
 
 ---
